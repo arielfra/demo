@@ -10,3 +10,6 @@
 *.log
 *.tex
 .Rproj.user
+iris.csv
+!synthetic_iris.csv
+!codebook_iris.csv
